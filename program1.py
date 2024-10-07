@@ -23,7 +23,7 @@ class Solution:
 
         return len(stack) == 0
 
-# Ensure there's an instance of the class to run if needed
+
 if __name__ == "__main__":
     solution = Solution()
 
